@@ -237,3 +237,6 @@ This repository serves as the official landing page for doubleTwist. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of doubleTwist today!**
+
+---
+**Last updated:** 2026-09-07 21:49:34 UTC
