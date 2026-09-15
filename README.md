@@ -239,4 +239,4 @@ This repository serves as the official landing page for doubleTwist. The softwar
 **Get the most recent version of doubleTwist today!**
 
 ---
-**Last updated:** 2026-09-14 22:58:04 UTC
+**Last updated:** 2026-09-15 01:08:36 UTC
